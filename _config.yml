@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Loki7Lab's Homepage"
+title                    : "Loki7Lab's"
 title_separator          : "-"
 name                     : &name "Loki7Lab"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Loki7Lab"
   avatar           : "test8.jpg"
-  bio              : "For Machine Learning"
+  bio              : "For Machine Learning."
 #  location         : "Location"
 #  employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

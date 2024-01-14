@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Statistics"
-    url: /Statistics/
+    url: /statistics/
 
   - title: "Data Structures"
     url: /DataStructures/
@@ -16,7 +16,7 @@ main:
     url: /Cases/  
 
   - title: "About"
-    url: /pages/about.md/
+    url: /pages/about.md
 
 #  - title: "CV"
 #    url: /cv/
