@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Statistics"
-    url: /statistics/
+    url: /publications/
 
   - title: "Data Structures"
-    url: /DataStructures/
-
-  - title: "Algorithms"
-    url: /Algorithms/      
-    
-  - title: "Deep Learning"
     url: /talks/
 
-  - title: "Cases"
-    url: /Cases/  
+  - title: "Algorithms"
+    url: /DeepLearning/      
+    
+#  - title: "Deep Learning"
+#    url: /talks/
 
-  - title: "About"
-    url: /pages/about.md
+  - title: "Cases"
+    url: /cv/  
+
+#  - title: "About"
+#    url: /pages/about.md
 
 #  - title: "CV"
 #    url: /cv/
