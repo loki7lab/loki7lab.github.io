@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "DeepLearning"
-permalink: /DeepLearning/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
