@@ -9,8 +9,7 @@ main:
   - title: "Algorithms"
     url: /teaching/      
     
-#  - title: "Deep Learning"
-#    url: /talks/
+
 
   - title: "Cases"
     url: /cv/  
@@ -20,3 +19,6 @@ main:
 
 #  - title: "CV"
 #    url: /cv/
+
+#  - title: "Deep Learning"
+#    url: /talks/
