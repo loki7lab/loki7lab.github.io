@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Statistics"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Data Structures"
+    url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Algorithms"
+    url: /teaching/      
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+
+
+  - title: "Cases"
+    url: /cv/  
+
+#  - title: "About"
+#    url: /pages/about.md
+
+#  - title: "CV"
+#    url: /cv/
+
+#  - title: "Deep Learning"
+#    url: /talks/
