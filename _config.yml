@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Loki7Lab"
-  pronouns         : "She/Her"  
+#  pronouns         : "She/Her"  
   bio              : "I am a Computational Mathematics Engineer with a passion for applying mathematics, statistics, and computer science to solve real-world problems.You could call it data science, machine learning, or AI - but my focus goes beyond programming and algorithms. I aim to bridge theory and practice, delivering innovative solutions that make a difference."
-  location         : "Cyberspace"
-  #employer         : "Red Brick University"
+#  location         : "Cyberspace"
+#  employer         : "Red Brick University"
   uri              : # URL
   email            : "Loki7Lab@icloud.com" 
 
@@ -45,7 +45,7 @@ author:
 #  bitbucket        : # Username - Update with your username on the site
 #  codepen          : # Username
 #  dribbble         : # Username
-  github           : "academicpages"
+  github           : "loki7lab"
   kaggle           : # Username  
 #  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
